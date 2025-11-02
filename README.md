@@ -4,4 +4,10 @@ Um jogo de Sudoku completo com:
 - Geração automática de puzzles
 - Validação de jogadas
 - Interface no terminal
-- Solução automática
+- Solução automática com backtracking
+
+---
+
+##  Como jogar
+```bash
+python main.py
