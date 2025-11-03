@@ -12,11 +12,11 @@ Um jogo de Sudoku completo com:
 ## Estrutura do Projeto
 sudoku-python/
 ├── main.py            
-├── sudoku_generator.py
-|── sudoku_solver.py
-├── utils.py             
-├── README.md            
-└── .gitignore           
+├── sudoku_generator.py      
+|── sudoku_solver.py      
+├── utils.py                     
+├── README.md                
+└── .gitignore               
 
 Um jogo de Sudoku completo com:
 - Geração automática de puzzles
@@ -38,6 +38,7 @@ Digite sol para ver a solução
 
 Requisitos
 Python 3.6+
+
 
 
 
